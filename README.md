@@ -1,7 +1,7 @@
 # ChatGPT-Bot
 <h1>ChatGPT-Bot</h1>
     <p>
-        ChatGPT-Bot is an AI-powered chatbot based on OpenAI's GPT-4 architecture. The goal of this project is to provide a user-friendly interface for real-time chat conversations with the ChatGPT-Bot. This repository contains the main Python script <code>chat.py</code> for running the chatbot.
+        ChatGPT-Bot is an AI-powered chatbot based on OpenAI's GPT-4 architecture. The goal of this project is to provide a user-friendly interface for real-time chat conversations with the ChatGPT-Bot. This repository contains the main Python script <code>chat.py</code> for running the chatbot. The application uses Tkinter for the graphical user interface and Pickle for storing the API Key.
     </p>
     <h2>Table of Contents</h2>
 <ul>
